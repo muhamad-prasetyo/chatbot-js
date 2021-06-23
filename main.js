@@ -23,7 +23,7 @@ function talk() {
     } 
     else {
         // else the bot will say "sorry i didn't understand"
-        document.getElementById('chatLog').innerHTML = "Maaf, Saya Tidak Mengerti! <br>";
+        document.getElementById('chatLog').innerHTML = "Maaf, Masukan Kata yang jelas! <br>";
     }
 
 }
