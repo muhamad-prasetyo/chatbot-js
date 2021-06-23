@@ -6,6 +6,7 @@ function talk() {
         "hay" : "Hello, I'am ChatBot..",
         "hi" : "Hello, I'am ChatBot..",
         "hello" : "Hello, I'am ChatBot..",
+        "intro" : "Hello, I'am ChatBot..",
         "Bye" : "Okay! We Will meet soon...",
         "thanks" : "Okay! We Will meet soon...",
         "thank" : "Okay! We Will meet soon...",
