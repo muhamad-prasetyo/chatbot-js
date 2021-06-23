@@ -14,6 +14,7 @@ function talk() {
         "makasih" :"Okay! We Will meet soon...",
     };
 
+    // untuk mengubah nilai masukan dari user menjadi ukuran normal
     var user = document.getElementById('userBox').value.toLowerCase();
     document.getElementById('chatLog').innerHTML = user + "<br>";
 
