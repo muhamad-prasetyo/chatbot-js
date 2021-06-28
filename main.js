@@ -11,7 +11,6 @@ function talk() {
         "thanks" : "Okay! We Will meet soon...",
         "thank" : "Okay! We Will meet soon...",
         "terimahkasih" : "Okay! We Will meet soon...",
-        "suwun" : "Okay! We Will meet soon...",
         "makasih" :"Okay! We Will meet soon...",
     };
 
